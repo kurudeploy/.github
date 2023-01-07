@@ -1,1 +1,1 @@
-# .github
+# Kuru Deploy
